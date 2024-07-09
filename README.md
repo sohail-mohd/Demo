@@ -1,3 +1,3 @@
 # Demo
 This is my first Git Repository.
-Author - Sohail Mohammad(Babbu)
+Author - Sohail Mohammad(Yum)
